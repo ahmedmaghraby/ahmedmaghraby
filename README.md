@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Maghraby</h1>
-<h3 align="center">Senior Front-End Developer with Expertise in Angular | Vue | Rract | NEXT | NUXT | Flutter</h3>
+<h3 align="center">Team Leader Front-End Developer with Expertise in Angular | Vue | Rract | NEXT | NUXT | Flutter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmaghraby&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmaghraby" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Reactnative**
 
-- 👨‍💻 All of my projects are available at [https://ahmedmaghraby.github.io/Resume/](https://ahmedmaghraby.github.io/Resume/)
+- 👨‍💻 All of my projects are available at [https://ahmedmaghraby.me/](https://ahmedmaghraby.me/)
 
 - 💬 Ask me about **Angular | Vue | Rract | NEXT | NUXT | Flutter | .NetCore | SQl**
 
