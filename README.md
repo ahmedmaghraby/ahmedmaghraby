@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/maghraby31" target="blank"><img src="https://img.shields.io/twitter/follow/maghraby31?logo=twitter&style=for-the-badge" alt="maghraby31" /></a> </p>
 
-- 🌱 I’m currently learning **Reactnative**
+- 🌱 I’m currently learning **RAG ChatBots**
 
 - 👨‍💻 All of my projects are available at [https://ahmedmaghraby.me/](https://ahmedmaghraby.me/)
 
-- 💬 Ask me about **Angular | Vue | Rract | NEXT | NUXT | Flutter | .NetCore | SQl**
+- 💬 Ask me about **Angular | Vue | Rract | NEXT | NUXT | Reactnative | Flutter | .NetCore | SQl**
 
 - 📫 How to reach me **ahmedhamdy078@gmail.com**
 
